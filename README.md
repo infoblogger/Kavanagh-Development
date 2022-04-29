@@ -1,1 +1,18 @@
-# Kavanagh-Development
+<h1 style="text-align: center;">5 Web Design Tips for a Professional Site</h1>
+<p><a href="https://kavanagh.digital/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://media.istockphoto.com/photos/power-couples-make-it-happen-wherever-they-are-picture-id1293000327?k=20&amp;m=1293000327&amp;s=612x612&amp;w=0&amp;h=i-Snz1k_ZvZEBGWODy9mbM2XKX4cEhg562PqtJasq4s=" alt="" width="612" height="408" /></a></p>
+<p style="text-align: justify;">Just like fashion, web design is constantly changing trends and fads that come and go. When it comes to <strong>creating a website</strong> that makes a professional impression, you'll do well to keep it fresh and on trend. After all, when you go to an interview, don't you want to look your best?</p>
+<ul>
+<li id="viewer-7lnls" class="iWv3d xVLwT _3Kjjs public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-list-ltr fixed-tab-size public-DraftStyleDefault-reset _1FoOD _3M0Fe aujbK iWv3d">
+<p class="_1j-51 _1FoOD _3M0Fe aujbK iWv3d"><strong>Make sure your colors match</strong> . For example: putting colored text on a white background might give your site visitors a headache, make them give up and maybe abandon your site. Neither of these results are desirable &ndash; so make sure you check that all text is <u class="_3zM-5">easy to read</u>.</p>
+</li>
+<li id="viewer-egtdp" class="iWv3d xVLwT _3Kjjs public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-list-ltr fixed-tab-size _1FoOD _3M0Fe aujbK iWv3d">
+<p class="_1j-51 _1FoOD _3M0Fe aujbK iWv3d"><strong>Don't use a very small font size</strong> . Although it may seem cute, and just like in relationships, the look is not enough. Make sure your readers don't need a magnifying glass to understand your message.</p>
+</li>
+<li id="viewer-21g2r" class="iWv3d xVLwT _3Kjjs public-DraftStyleDefault-unorderedListItem public-DraftStyleDefault-depth0 public-DraftStyleDefault-list-ltr fixed-tab-size _1FoOD _3M0Fe aujbK iWv3d">
+<p class="_1j-51 _1FoOD _3M0Fe aujbK iWv3d"><strong>Keep your sources</strong> . Your website cannot have more than three fonts &ndash; maximum two might be even better. For extra points, make sure the fonts you choose are easy to read and don't let your visitors wonder if they're reading Sanskrit.</p>
+</li>
+</ul>
+<h3 id="viewer-csdi9" class="_3qMKZ _1j-51 _1FoOD _3M0Fe aujbK iWv3d public-DraftStyleDefault-block-depth0 fixed-tab-size public-DraftStyleDefault-text-ltr" style="text-align: justify;"><span class="_2PHJq public-DraftStyleDefault-ltr">5. Get the most out of the mobile version of your site</span></h3>
+<p id="viewer-40ins" class="mm8Nw _1j-51 iWv3d _1FoOD _3M0Fe aujbK iWv3d public-DraftStyleDefault-block-depth0 fixed-tab-size public-DraftStyleDefault-text-ltr" style="text-align: justify;"><span class="_2PHJq public-DraftStyleDefault-ltr">What good is a professional looking website if it doesn't look professional on mobile? In today's world, you're welcome. Don't despair! The Wix Website Builder comes fully equipped with an <strong>intuitive mobile editor</strong> and is ready to be used to its full potential.</span></p>
+<p id="viewer-2qagp" class="mm8Nw _1j-51 iWv3d _1FoOD _3M0Fe aujbK iWv3d public-DraftStyleDefault-block-depth0 fixed-tab-size public-DraftStyleDefault-text-ltr" style="text-align: justify;"><span class="_2PHJq public-DraftStyleDefault-ltr">Make changes keeping all the tips above in mind and switch between the editor and the preview version so you can see the changes put into action. After all, you don't want to miss out on potential site visitors/users/customers just because they're on the subway and away from a computer, do you?</span></p>
+<p style="text-align: justify;">To find best Technical consultancy in London then check <a href="https://kavanagh.digital/"><strong>Kavanagh Development</strong></a>&nbsp;website.</p>
